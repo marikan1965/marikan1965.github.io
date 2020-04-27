@@ -1,7 +1,7 @@
 # Site
-name: "AriMusings"
+name: "Markus Arikan"
 title: "Gedanken zu allem worüber ich so stolpere"
-description: "Projektmanagement, Softwareentwicklung, DevOps und "
+description: "Alles was mich so beschäftigt und/oder interessiert"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''

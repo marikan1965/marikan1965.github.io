@@ -8,7 +8,7 @@ image: assets/images/Notzingen.png
 description: "Mein erster Post hier."
 featured: true
 hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 
 # Blog auf github.io
