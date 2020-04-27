@@ -2,6 +2,7 @@
 layout: post
 title:  "Erster Eintrag"
 author: ari
+comments: false
 categories: [ Allgemeines, Persönliches ]
 tags: [ nutzlos ]
 image: assets/images/Notzingen.png 
